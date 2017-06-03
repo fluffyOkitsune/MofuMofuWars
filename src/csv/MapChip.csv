@@ -1,0 +1,8 @@
+MAPCHIP,,,,,,,
+マップチップのID,地形効果,画像ファイル名,画像X座標,画像Y座標,表示タイプ,大きさX,大きさY
+0,平地,src/image/MapChip00.png,0,8,1,0,0
+1,芝生,src/image/MapChip00.png,3,8,1,0,0
+2,荒地,src/image/MapChip00.png,9,0,1,0,0
+3,森,src/image/MapChip00.png,0,12,1,0,0
+4,山,src/image/MapChip00.png,3,12,1,0,0
+5,民家,src/image/MapChip00.png,27,6,0,1,1
